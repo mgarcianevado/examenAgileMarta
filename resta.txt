@@ -8,3 +8,11 @@
 		Ej.  2 - 4 = 'Error'
 		Ej. 0 - 1 = 'Error'
 		Ej. La resta de cualquier número cualquiera menos el número mayor 		posible, el resultado será: 'Error'
+
+	* Comprobamos la Resta dos números naturales.
+		Ej: 1 - 1 = 0 (Verde)
+		Ej: 1 - 0 = 0 (Verde)
+		Ej: 0 - 0 = 0 (Verde)
+
+		
+- Codigo. Desarrollo de una aplicación donde podamos introducir los dos números, y 		comprobar que dichos números, son naturales. Si estos números, no son 		naturales, la aplicación nos devolverá un mensaje de error, y tendremos que 		introducir otros valores.
