@@ -60,3 +60,5 @@ En el enunciado se solicita la creación de una historia 'Error' para que el usua
 	   Resta			         3
 	    Error		      	         4
 --------------------------------------------------------------------------------------
+
+Hemos detectado que la tarea de comprobar que son dos números naturales están presente  en todas las Historias de usuario, por lo que se podría reutilizar el código para reducir el tiempo de desarrollo.
