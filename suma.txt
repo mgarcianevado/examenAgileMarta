@@ -16,3 +16,5 @@ Tarea 1- Branch TDD suma:
 - Códificacion: Desarrollo de una aplicación donde podamos introducir los dos números, y comprobar que dichos números, son naturales. Si estos números, no son 		naturales, la aplicación nos devolverá un mensaje de error, y tendremos que 		introducir otros valores.
 
 - Creamos la variable Resultado. Que será la suma de los valores 		introducidos. N1 + N2. Veremos el valor de nuestra 	variable en pantalla.
+
+- Refactorizamos para que el código no se duplique y sea más legible.
