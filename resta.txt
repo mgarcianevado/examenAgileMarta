@@ -1,0 +1,27 @@
+3. Historia de la Resta:
+        Tenemos que considerar varias tareas de la historia de la resta. Cada una de ellas irá representada con un branch.
+
+- TDD (Rojo, Verde, Refactorizar). Comprobamos los posibles errores.
+	* Comprobamos que tengamos dos valores.
+	* Comprobamos que sean dos números naturales.
+	* Comprobamos que el primer valor introducido sea mayor que el segundo. En 		el caso de que no lo sea se producirá el 'Error'.
+		Ej.  2 - 4 = 'Error'
+		Ej. 0 - 1 = 'Error'
+		Ej. La resta de cualquier número cualquiera menos el número mayor 		posible, el resultado será: 'Error'
+
+	* Comprobamos la Resta dos números naturales.
+		Ej: 1 - 1 = 0 (Verde)
+		Ej: 1 - 0 = 0 (Verde)
+		Ej: 0 - 0 = 0 (Verde)
+
+		
+- Codigo. Desarrollo de una aplicación donde podamos introducir los dos números, y 		comprobar que dichos números, son naturales. Si estos números, no son 		naturales, la aplicación nos devolverá un mensaje de error, y tendremos que 		introducir otros valores.
+
+- La aplicación debe detectar que el primer número sea mayor que el segundo. Si esta condición no se cumple, nos mostrará el mensaje de 'Error' y nos mandará al inicio de la resta para introducir nuevos valores.
+
+- Creamos la variable Resultado. Que será la multiplicación de los valores 		introducidos. N1 - N2. Veremos el valor de nuestra variable en pantalla.
+
+- Refactorizamos para que el código no se duplique y sea más legible.
+
+Hemos considerado que todas las tareas son bloqueantes entre si. Se necesitan ir complementando de una en una para comenzar la siguiente.
+	
