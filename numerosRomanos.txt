@@ -1,3 +1,7 @@
 Hisotria numeros romanos
 
 TAREA DE LA HISTORIA NUMEROS ROMANOS:
+
+- TDD (Rojo, Verde, Refactorizar). Comprobamos los posibles errores.
+	* Comprobamos que el valor introducido sea un número natural.
+	* Comprobamos que el número sea distinto de 0.
