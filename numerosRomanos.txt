@@ -7,3 +7,5 @@ TAREA DE LA HISTORIA NUMEROS ROMANOS:
 	* Comprobamos que el número sea distinto de 0.
 
 - Codigo. Desarrollo de una aplicación donde podamos introducir un número y comprobar que es natural. Si no es así, nos mostrará un mensaje de error para que podamos introducir un nuevo valor.
+
+- Creamos la variable Resultado. Que será el número introducido en notación romana.
