@@ -10,3 +10,5 @@
 		Ej: 1 * 0 = 0 (Verde)
 		Ej: 0 * 0 = 0 (Verde)
 	* Comprobar la multiplicacion de los dos numeros mayores posibles admitidos.
+
+- Codigo: Desarrollo de una aplicación donde podamos introducir los dos números, y 		comprobar que dichos números, son naturales. Si estos números, no son 		naturales, la aplicación nos devolverá un mensaje de error, y tendremos que 		introducir otros valores.
