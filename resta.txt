@@ -20,4 +20,8 @@
 - La aplicación debe detectar que el primer número sea mayor que el segundo. Si esta condición no se cumple, nos mostrará el mensaje de 'Error' y nos mandará al inicio de la resta para introducir nuevos valores.
 
 - Creamos la variable Resultado. Que será la multiplicación de los valores 		introducidos. N1 - N2. Veremos el valor de nuestra variable en pantalla.
+
+- Refactorizamos para que el código no se duplique y sea más legible.
+
+Hemos considerado que todas las tareas son bloqueantes entre si. Se necesitan ir complementando de una en una para comenzar la siguiente.
 	
