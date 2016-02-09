@@ -1,0 +1,20 @@
+2. Historia de la Multiplicacion:
+        Tenemos que considerar varias tareas en la historia de multiplicacion, que irán en varios branch.
+
+- TDD (Rojo, Verde, Refactorizar). Comprobamos los posibles errores.
+	* Comprobamos que tengamos dos valores.
+	* Comprobamos que sean dos números naturales.
+  	* Comprobamos la Multiplicacion:de dos números naturales.
+		Ej: 1 * 1 = 1 (Verde)
+		Ej: 0 * 1 = 0 (Verde)
+		Ej: 1 * 0 = 0 (Verde)
+		Ej: 0 * 0 = 0 (Verde)
+	* Comprobar la multiplicacion de los dos numeros mayores posibles admitidos.
+
+- Codigo: Desarrollo de una aplicación donde podamos introducir los dos números, y 		comprobar que dichos números, son naturales. Si estos números, no son 		naturales, la aplicación nos devolverá un mensaje de error, y tendremos que 		introducir otros valores.
+
+- Creamos la variable Resultado. Que será la multiplicación de los valores 		introducidos. N1 * N2. Veremos el valor de nuestra variable en pantalla.
+
+- Refactorizamos para que el código no se duplique y sea más legible.
+
+Hemos considerado que todas las tareas son bloqueantes, ya que son  necesarias para continuar con las siguientes tareas.
