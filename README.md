@@ -50,3 +50,13 @@ La tarea quedará "terminada" cuando se hayan realizado las pruebas así como los 
 	ESTIMACION AGIL(Planning poker): 8
 
 En el enunciado se solicita la creación de una historia 'Error' para que el usuario sepa cuando se ha confundido. Sin embargo, considero que esa cuarta historia 'Error' no es tal sino que se trata de una tarea de la Historia Restar.
+
+--------------------------------------------------------------------------------------
+-->   PILA DE PRODUCTO
+
+        HISTORIA DE USUARIO		PRIORIDAD
+      	    Suma			         1
+	Multiplicacion		         2
+	   Resta			         3
+	    Error		      	         4
+--------------------------------------------------------------------------------------
