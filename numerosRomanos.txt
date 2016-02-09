@@ -5,3 +5,5 @@ TAREA DE LA HISTORIA NUMEROS ROMANOS:
 - TDD (Rojo, Verde, Refactorizar). Comprobamos los posibles errores.
 	* Comprobamos que el valor introducido sea un número natural.
 	* Comprobamos que el número sea distinto de 0.
+
+- Codigo. Desarrollo de una aplicación donde podamos introducir un número y comprobar que es natural. Si no es así, nos mostrará un mensaje de error para que podamos introducir un nuevo valor.
