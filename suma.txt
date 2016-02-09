@@ -12,3 +12,5 @@ Tarea 1- Branch TDD suma:
 		Ej: 1 + 0 = 1 (Verde)
 		Ej: 0 + 0 = 0 (Verde)
 	* Comprobar la suma del mayor número posible admitido con el mayor número posible.
+
+- Códificacion: Desarrollo de una aplicación donde podamos introducir los dos números, y comprobar que dichos números, son naturales. Si estos números, no son 		naturales, la aplicación nos devolverá un mensaje de error, y tendremos que 		introducir otros valores.
