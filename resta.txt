@@ -1,2 +1,10 @@
 3. Historia de la Resta:
         Tenemos que considerar varias tareas de la historia de la resta. Cada una de ellas irá representada con un branch.
+
+- TDD (Rojo, Verde, Refactorizar). Comprobamos los posibles errores.
+	* Comprobamos que tengamos dos valores.
+	* Comprobamos que sean dos números naturales.
+	* Comprobamos que el primer valor introducido sea mayor que el segundo. En 		el caso de que no lo sea se producirá el 'Error'.
+		Ej.  2 - 4 = 'Error'
+		Ej. 0 - 1 = 'Error'
+		Ej. La resta de cualquier número cualquiera menos el número mayor 		posible, el resultado será: 'Error'
