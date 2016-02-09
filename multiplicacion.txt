@@ -12,3 +12,5 @@
 	* Comprobar la multiplicacion de los dos numeros mayores posibles admitidos.
 
 - Codigo: Desarrollo de una aplicación donde podamos introducir los dos números, y 		comprobar que dichos números, son naturales. Si estos números, no son 		naturales, la aplicación nos devolverá un mensaje de error, y tendremos que 		introducir otros valores.
+
+- Creamos la variable Resultado. Que será la multiplicación de los valores 		introducidos. N1 * N2. Veremos el valor de nuestra variable en pantalla.
