@@ -1,2 +1,14 @@
 1. Historia de la Suma.
         Tenemos que considerar varias tareas en la historia de la suma, que irán en diferentes branch.
+
+Tarea 1- Branch TDD suma:
+
+- TDD (Rojo, Verde, Refactorizar). Comprobamos los posibles errores.
+	* Comprobamos que tengamos dos valores.
+	* Comprobamos que sean dos números naturales.
+  	* Comprobamos la suma de dos números naturales.
+		Ej: 1 + 1 = 2. (Verde)
+		Ej: 0 + 1 = 1 (Verde)
+		Ej: 1 + 0 = 1 (Verde)
+		Ej: 0 + 0 = 0 (Verde)
+	* Comprobar la suma del mayor número posible admitido con el mayor número posible.
