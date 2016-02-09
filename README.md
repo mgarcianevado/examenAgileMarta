@@ -9,7 +9,13 @@ Realizada cada una de las operaciones, debe indicar el o los casos donde no se p
 
 --> HISTORIA DE USUARIOS
 
-A continuación, vamos a analizar cada una de las historias de usuario que necesitamos para realizar el Sprint. 
+A continuación, vamos a analizar cada una de las historias de usuario necesarias:
+
+Historias de usuario:
+		SUMA
+		RESTA
+		MULTIPLICACION
+		NUMEROS ROMANOS
 
  PRIMER SPRINT:
 
@@ -18,7 +24,13 @@ A continuación, vamos a analizar cada una de las historias de usuario que necesi
 		RESTA
 		MULTIPLICACION
 
+SEGUNDO SPRINT:
+	Historias de usuario:
+		NUMEROS ROMANOS
+	
+
 --------------------------------------------------------------------------------------
+-------------------PRIMER SPRINT---------------------------------------------
 
 --> ESTIMACIÓN DE PRIORIDADES
 
@@ -58,7 +70,18 @@ En el enunciado se solicita la creación de una historia 'Error' para que el usua
       	    Suma			         1
 	Multiplicacion		         2
 	   Resta			         3
-	    Error		      	         4
 --------------------------------------------------------------------------------------
 
 Hemos detectado que la tarea de comprobar que son dos números naturales están presente  en todas las Historias de usuario, por lo que se podría reutilizar el código para reducir el tiempo de desarrollo.
+--------------------------------------------------------------------------------------
+----------SEGUNDO SPRINT--------------------------------------------------
+
+En el segundo sprint añadimos valor a nuestra aplicacion ampliando sus funcionalidades.
+
+Creamos una nueva Historia de Usuario: Historia Números Romanos.
+
+En esta historia establecemos que dado un número natural, nuestra aplicación nos va a dar como resultado dicho número en notación romana.
+
+La tarea quedará "terminada" cuando se hayan realizado las pruebas así como los test de validación con valores 'frontera'  y otros valores, y hayamos  comprobado su correcto funcionamiento.
+
+Estimación Ágil (planning poker) : 5
