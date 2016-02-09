@@ -9,3 +9,7 @@ TAREA DE LA HISTORIA NUMEROS ROMANOS:
 - Codigo. Desarrollo de una aplicación donde podamos introducir un número y comprobar que es natural. Si no es así, nos mostrará un mensaje de error para que podamos introducir un nuevo valor.
 
 - Creamos la variable Resultado. Que será el número introducido en notación romana.
+
+- Refactorizamos para que el código no se duplique y sea más legible.
+
+Hemos consideramos que todas las tareas son bloqueantes, ya que es necesario tenerlas finalizadas para comenzar la siguiente tarea.
